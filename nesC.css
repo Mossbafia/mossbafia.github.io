@@ -1,0 +1,23 @@
+.controller.edit {
+    background: url(https://i.imgur.com/wXThfI4.png);
+    width: 832px;
+    height: 391px;
+}
+.edit .back, .edit .start {
+    background: url(https://i.imgur.com/jgIBP6y.png);
+    width: 73px;
+    height: 20px;
+}
+.edit .button {
+    position: absolute;
+    width: 74px;
+    height: 74px;
+    background: url(https://i.imgur.com/qqffsTj.png);
+    top: 0;
+}
+.edit .face {
+    background: url(https://i.imgur.com/ZAXu8FT.png);
+    position: absolute;
+    width: 38px;
+    height: 38px;
+}
