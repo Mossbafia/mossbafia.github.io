@@ -1,42 +1,42 @@
 
-.xbox.white {
-    background: url(https://www.imageupload.net/upload-image/2020/02/04/xbox-base.png);
+.controller.edit {
+    background: url(https://www.imageupload.net/upload-image/2020/02/04/edit-base.png);
 }
 
-.xbox .trigger {
+.edit .trigger {
     width: 88px;
     height: 121px;
     background: url(https://www.imageupload.net/upload-image/2020/02/04/trigger.png);
     opacity: 0;
 }
 
-.xbox .bumper {
+.edit .bumper {
     width: 170px;
     height: 61px;
     background: url(https://www.imageupload.net/upload-image/2020/02/04/bumper.png);
     opacity: 0;
 }
 
-.xbox .face {
+.edit .face {
     background: url(https://www.imageupload.net/upload-image/2020/02/04/dpadclicked.png);
     position: absolute;
     opacity: 0;
 }
 
-.xbox .stick {
+.edit .stick {
     position: absolute;
     background: url(https://www.imageupload.net/upload-image/2020/02/04/sticks.png);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
 }
-.xbox .back, .xbox .start {
+.edit .back, .edit .start {
     background: url(https://www.imageupload.net/upload-image/2020/02/04/start-select.png);
     width: 33px;
     height: 33px;
     opacity: 0;
 }
-.xbox .button {
+.edit .button {
     position: absolute;
     background: url(https://www.imageupload.net/upload-image/2020/02/04/abxy1791ca7e9c870557.png);
     width: 48px;
