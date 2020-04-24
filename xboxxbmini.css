@@ -1,0 +1,73 @@
+
+.controller.edit {
+    background: url(https://www.imageupload.net/upload-image/2020/02/04/xbox-base.png);
+}
+
+.edit .trigger {
+    width: 88px;
+    height: 121px;
+    background: url(https://www.imageupload.net/upload-image/2020/02/04/trigger.png);
+    opacity: 0;
+}
+
+.edit .bumper {
+    width: 170px;
+    height: 61px;
+    background: url(https://www.imageupload.net/upload-image/2020/02/04/bumper.png);
+    opacity: 0;
+}
+
+.edit .face {
+    background: url(https://www.imageupload.net/upload-image/2020/02/04/dpadclicked.png);
+    position: absolute;
+    opacity: 0;
+}
+
+.edit .stick {
+    position: absolute;
+    background: url(https://www.imageupload.net/upload-image/2020/02/04/sticks.png);
+    background-position: -85px 0;
+    height: 83px;
+    width: 83px;
+}
+.edit .back, .edit .start {
+    background: url(https://www.imageupload.net/upload-image/2020/02/04/start-select.png);
+    width: 33px;
+    height: 33px;
+    opacity: 0;
+}
+.edit .button {
+    position: absolute;
+    background: url(https://www.imageupload.net/upload-image/2020/02/04/abxy1791ca7e9c870557.png);
+    width: 48px;
+    height: 48px;
+}
+.edit .quadrant {
+    position: absolute;
+    background: url();
+    height: 45px;
+    width: 45px;
+    top: 258px;
+    left: 354px;
+    z-index: 0;
+}
+
+.edit .p0 {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+}
+
+.edit .p1 {
+    -webkit-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+
+.edit .p2 {
+    -webkit-transform: rotate(270deg);
+    transform: rotate(270deg);
+}
+
+.edit .p3 {
+    -webkit-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
