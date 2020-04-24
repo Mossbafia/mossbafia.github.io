@@ -1,0 +1,78 @@
+.controller.edit {
+    background: url(https://i.imgur.com/2mRkeKA.png);
+    height: 598px;
+    width: 806px;
+}
+.edit .trigger {
+    width: 99px;
+    height: 100%;
+    background: url(https://i.imgur.com/tMuGHgl.png);
+    opacity: 0;
+}
+.edit .bumper {
+    width: 99px;
+    height: 23px;
+    background: url(https://i.imgur.com/sUWDOdg.png) no-repeat;
+    opacity: 0;
+}
+.edit .back, .edit .start {
+    background: url(https://i.imgur.com/GfBX75n.png);
+    width: 28px;
+    height: 46px;
+    opacity: 0;
+}
+.edit .abxy {
+    position: absolute;
+    width: 170px;
+    height: 171px;
+    top: 159px;
+    left: 567px;
+}
+.edit .button {
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    background: url(https://i.imgur.com/Ohqn4K0.png);
+}
+.edit .a {
+    background-position: 0 0;
+    bottom: 0;
+    left: 58px;
+}
+
+.edit .b {
+    background-position: -57px 0;
+    top: 58px;
+    right: 0px;
+}
+
+.edit .x {
+    background-position: -113px 0;
+    top: 58px;
+}
+
+.edit .y {
+    background-position: 55px 0;
+    left: 58px;
+}
+.edit .stick {
+    position: absolute;
+    background: url(https://i.imgur.com/7Ojz35B.png);
+    height: 94px;
+    width: 94px;
+}
+.edit .face {
+    background: url(https://i.imgur.com/CnckHg4.png);
+    position: absolute;
+}
+.edit .touchpad {
+    width: 262px;
+    height: 151px;
+    position: absolute;
+    left: 272px;
+    top: 122px;
+}
+
+.edit .touchpad.pressed {
+    background: url(https://i.imgur.com/jRA5YJG.png) no-repeat center;
+}
