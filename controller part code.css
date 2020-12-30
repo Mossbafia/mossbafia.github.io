@@ -1,37 +1,37 @@
 
 .controller.edit {
-    background: url(https://i.imgur.com/ceIt9WV.gif);
+    background: url(https://i.imgur.com/rjgEJZI.png);
 }
 
 .edit .trigger {
     width: 88px;
     height: 121px;
-    background: url(https://i.imgur.com/2KCLqOd.png);
+    background: url(https://i.imgur.com/1dFoAaO.png);
     opacity: 0;
 }
 
 .edit .bumper {
     width: 170px;
     height: 61px;
-    background: url(https://i.imgur.com/qbwebkr.png);
+    background: url(https://i.imgur.com/XLaKkqp.png);
     opacity: 0;
 }
 
 .edit .face {
-    background: url(https://i.imgur.com/D8MVJW4.png);
+    background: url(https://i.imgur.com/JK1JD9G.png);
     position: absolute;
     opacity: 0;
 }
 
 .edit .stick {
     position: absolute;
-    background: url(https://i.imgur.com/I667jdf.png);
+    background: url(https://i.imgur.com/qmaFBWZ.png);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
 }
 .edit .back, .edit .start {
-    background: url(https://i.imgur.com/e8CVPG0.png);
+    background: url(https://i.imgur.com/CzWGpbD.png);
     width: 33px;
     height: 33px;
     opacity: 0;
@@ -46,7 +46,7 @@
 
 .edit .button {
     position: absolute;
-    background: url(https://i.imgur.com/GynxS9e.png);
+    background: url(https://i.imgur.com/ti00ktX.png);
     width: 48px;
     height: 48px;
 }
